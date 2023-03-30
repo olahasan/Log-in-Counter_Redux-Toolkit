@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Log-in-Counter_Redux-Toolkit/static/css/main.aae2e750.css",
+    "main.js": "/Log-in-Counter_Redux-Toolkit/static/js/main.71219505.js",
+    "static/js/787.784b3d98.chunk.js": "/Log-in-Counter_Redux-Toolkit/static/js/787.784b3d98.chunk.js",
+    "index.html": "/Log-in-Counter_Redux-Toolkit/index.html",
+    "main.aae2e750.css.map": "/Log-in-Counter_Redux-Toolkit/static/css/main.aae2e750.css.map",
+    "main.71219505.js.map": "/Log-in-Counter_Redux-Toolkit/static/js/main.71219505.js.map",
+    "787.784b3d98.chunk.js.map": "/Log-in-Counter_Redux-Toolkit/static/js/787.784b3d98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aae2e750.css",
+    "static/js/main.71219505.js"
+  ]
+}
